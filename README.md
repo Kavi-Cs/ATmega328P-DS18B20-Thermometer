@@ -12,17 +12,13 @@ Developed as part of the **EE3032 Embedded Systems Lab**, this project highlight
 
 ## 📸 Hardware Setup
 
-Below is the physical hardware configuration for the system. 
+Below is the physical hardware configuration for the system.
 
-*(Note: If you cloned this repository, ensure your uploaded images are named `board.jpg` and `sensor.jpg` in the root directory for them to render correctly).*
+![EE3032 Lab Board Setup](board.jpg)
+*Figure 1: The custom EE3032 lab board showing the active 4-digit multiplexed display stably rendering the room temperature.*
 
-<div align="center">
-  <img src="board.jpg" alt="EE3032 Lab Board Setup" width="48%">
-  <img src="sensor.jpg" alt="DS18B20 Wiring" width="48%">
-</div>
-
-> **Left:** The custom EE3032 lab board showing the active 4-digit multiplexed display stably rendering the room temperature.  
-> **Right:** The waterproof DS18B20 sensor probe wired on the breadboard with a pull-up resistor.
+![DS18B20 Wiring](sensor.jpg)
+*Figure 2: The waterproof DS18B20 sensor probe wired on the breadboard with the required pull-up resistor.*
 
 ---
 
